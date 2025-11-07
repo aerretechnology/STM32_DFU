@@ -45,7 +45,7 @@ class STM32DFUProgrammer:
 
     # === Costruzione interfaccia ===
     def build_ui(self):
-        title = ctk.CTkLabel(self.root, text="STM32 DFU Programmer - by AERRETECHNOLOGY", font=("Arial", 22, "bold"))
+        title = ctk.CTkLabel(self.root, text="STM32 DFU Programmer", font=("Arial", 22, "bold"))
         title.pack(pady=10)
 
         # Selezione file
