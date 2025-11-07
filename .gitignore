@@ -5,7 +5,7 @@
 
 # --- Python build artifacts ---
 __pycache__/
-*.py[cod]
+#*.py[cod]
 *$py.class
 *.pyo
 
@@ -63,7 +63,7 @@ ehthumbs.db
 *.tk
 
 # --- Project-specific folders ---
-dfu-util_x64/__pycache__/
+#dfu-util_x64/__pycache__/
 __MACOSX/
 
 # --- Logs and temp from dfu-util integration ---
