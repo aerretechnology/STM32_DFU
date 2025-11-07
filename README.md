@@ -60,7 +60,7 @@ A Python-based GUI tool for flashing **STM32 microcontrollers** using **DFU mode
 
 ---
 
-## ?? License
+## :page_facing_up: License
 This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.  
 See the [LICENSE](LICENSE) file for full details.
 
